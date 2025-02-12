@@ -20,6 +20,14 @@ Education
 * B.Sc. in Electrical Engineering, Amirkabir University of Technology, Tehran, Iran (September 2013 – September 2017)  
   *Thesis: Classification of Emotion Signals Using CNN and DNN Methods*
 
+Research Interests
+======
+- Deep Learning for Medical Image Analysis  
+- Anatomical Landmark Detection  
+- Multi-Modal Image Registration  
+- Uncertainty Quantification in AI  
+- Contrast-Agnostic Learning  
+
 Work experience
 ======
 * April 2024 – September 2024: Research Scientist Intern  
