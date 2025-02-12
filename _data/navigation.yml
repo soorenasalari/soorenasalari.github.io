@@ -9,11 +9,13 @@ main:
   - title: "About"
     url: /about/
 
-  - title: "Publications"
-    url: /publications/
-
   - title: "CV"
     url: /cv/
+    
+#  - title: "Publications"
+#    url: /publications/
+
+
 
 #   - title: "Presentations"
 #     url: /presentations/    
