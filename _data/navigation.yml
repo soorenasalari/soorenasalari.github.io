@@ -12,6 +12,9 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "CV"
+  url: /cv/
+
 #   - title: "Presentations"
 #     url: /presentations/    
 
@@ -28,5 +31,4 @@ main:
 #  - title: "Blog Posts"
 #    url: /year-archive/
     
-  - title: "CV"
-   url: /cv/
+
