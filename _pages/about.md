@@ -40,17 +40,19 @@ Feel free to reach out via email at soorena.salari374@gmail.com or connect with 
   <h1>News Timeline</h1>
   <ul class="timeline" style="list-style: none; padding: 0;">
     <li style="margin-bottom: 20px;">
-      November 2024: Our paper <a href="https://arxiv.org/abs/2411.17845" style="color: #0073e6; text-decoration: none;"><em>CAMLD: Contrast-Agnostic Medical Landmark Detection with Consistency-Based Regularization</em></a> is now available on arXiv.
+      November 2024: <a href="https://arxiv.org/abs/2411.17845" style="color: #0073e6; text-decoration: none;"><em>CAMLD</em></a> is now available on arXiv.
     </li>
     <li style="margin-bottom: 20px;">
-    November 2024: Our paper <a href="https://arxiv.org/abs/2411.17845" style="color: #0073e6; text-decoration: none;"><em>Reliability of deep learning models for anatomical landmark detection: The role of inter-rater variability</em></a> is accepted to SPIE Medical Imaging 2025!
+    November 2024: Our paper </em></a> got accepted to SPIE Medical Imaging 2025! :tada:
     </li>
     <li style="margin-bottom: 20px;">
-      September 2023: Two papers accepted at MICCAI 2023:
-      <ul>
-        <li><em>FocalErrorNet: Uncertainty-aware focal modulation network for inter-modal registration error estimation in ultrasound-guided neurosurgery</em> (Oral presentation, top 13% of submissions)</li>
-        <li><em>Towards multi-modal anatomical landmark detection for ultrasound-guided brain tumor resection with contrastive learning</em></li>
-      </ul>
+      June 2023: Two papers got accepted at MICCAI 2023! :tada:
+    </li>
+    <li style="margin-bottom: 20px;">
+      April 2023: One paper got accepted at IUS 2023! :tada:
+    </li>
+    <li style="margin-bottom: 20px;">
+      October 2022: One paper got accepted at SPIE Medical Imaging 2023! :tada:
     </li>
     <li style="margin-bottom: 20px;">
       January 2022: Started PhD in Computer Science at Concordia University.
