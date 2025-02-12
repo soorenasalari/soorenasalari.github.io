@@ -19,18 +19,6 @@ From April 2024 to September 2024, I was a Research Scientist Intern at Elekta, 
 - MSc in Electrical Engineering, Sharif University of Technology, Iran (Sep 2017 – Sep 2019)  
 - BSc in Electrical Engineering, Amirkabir University of Technology, Iran (Sep 2013 – Sep 2017)  
 
-## Work Experience
-- Research Scientist Intern at Elekta (April 2024 – September 2024)  
-  Working on deep learning-based image registration for real-time tissue motion tracking in 2D-Cine MRI-guided radiotherapy.  
-  - Trained foundation models using Python, PyTorch, ITK, MONAI, Nibabel, and NumPy on NVIDIA A100 GPUs.  
-  - Achieved a 12% improvement in image alignment by incorporating anatomical landmarks into transformation estimation.  
-  - Submitted results to IJCARS.
-
-- Head of AI Group at Hami Holding (June 2019 – January 2021)  
-  Led the development of AI-driven algorithmic trading systems:  
-  - Designed and implemented preprocessing and temporal analyses for time-series data and stock price prediction.  
-  - Oversaw a team of programmers working on AI and backend data analysis.  
-
 ## Research Interests
 - Deep Learning for Medical Image Analysis  
 - Anatomical Landmark Detection  
