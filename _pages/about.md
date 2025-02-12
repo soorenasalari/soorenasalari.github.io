@@ -9,7 +9,7 @@ redirect_from:
 
 I am a PhD candidate in Computer Science at Concordia University in Montréal, where I have been pursuing advanced research since January 2022. I complemented my academic journey with industry experience as a Research Scientist Intern at Elekta (April 2024 – September 2024), where I developed deep learning-based image registration methods for robust, real-time tissue motion tracking in 2D-Cine MRI-guided radiotherapy.
 
-My work is dedicated to advancing the foundational aspects of deep learning and computer vision, particularly in medical image processing. At the intersection of machine learning and medical imaging, I focus on creating innovative algorithms that enhance the interpretability and robustness of AI models for healthcare applications.
+My work primarily focuses on the foundational developments of deep learning and computer vision algorithms, with specific applications in medical image analysis. In particular, I am interested in developing innovative algorithms that enhance the interpretability and robustness of AI models for healthcare applications.
 
 ## Contact
 Feel free to reach out via email at soorena.salari374@gmail.com or connect with me on professional networks for research discussions and collaborations.
