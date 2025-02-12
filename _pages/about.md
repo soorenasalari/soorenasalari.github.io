@@ -15,7 +15,7 @@ My work primarily focuses on the foundational developments of deep learning and 
 Feel free to reach out via email at soorena.salari374@gmail.com or connect with me on professional networks for research discussions and collaborations.
 
 ---
-I won the Image Processing Best Student Paper Award at SPIE Medical Imaging 2023!
+
 <style>
   .timeline li {
     padding-left: 10px;
