@@ -43,6 +43,9 @@ Feel free to reach out via email at soorena.salari374@gmail.com or connect with 
       November 2024: Our paper <a href="https://arxiv.org/abs/2411.17845" style="color: #0073e6; text-decoration: none;"><em>CAMLD: Contrast-Agnostic Medical Landmark Detection with Consistency-Based Regularization</em></a> is now available on arXiv.
     </li>
     <li style="margin-bottom: 20px;">
+    November 2024: Our paper <a href="https://arxiv.org/abs/2411.17845" style="color: #0073e6; text-decoration: none;"><em>Reliability of deep learning models for anatomical landmark detection: The role of inter-rater variability</em></a> is now available on arXiv.
+    </li>
+    <li style="margin-bottom: 20px;">
       September 2023: Two papers accepted at MICCAI 2023:
       <ul>
         <li><em>FocalErrorNet: Uncertainty-aware focal modulation network for inter-modal registration error estimation in ultrasound-guided neurosurgery</em> (Oral presentation, top 13% of submissions)</li>
