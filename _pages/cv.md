@@ -47,6 +47,11 @@ Work experience
   - Worked on EEG signal processing methods.  
   - Gained experience in time-series analysis and feature extraction.
 
+
+Publications
+======
+You can find a **complete list** of my publications on [Google Scholar](https://scholar.google.com/citations?hl=en&user=udbW6OcAAAAJ&view_op=list_works&sortby=pubdate).
+
 Skills
 ======
 * **Programming & Libraries**  
@@ -97,10 +102,6 @@ Skills
     Top 1% in Iran’s national BSc entrance exam, 2013<br>
   </li>
 </ul>
-
-Publications
-======
-You can find a **complete list** of my publications on [Google Scholar](https://scholar.google.com/citations?hl=en&user=udbW6OcAAAAJ&view_op=list_works&sortby=pubdate).
 
 Volunteering
 ======
