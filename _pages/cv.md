@@ -50,6 +50,46 @@ Skills
 * **Cloud & Hardware**  
   - Experience training on NVIDIA A100 GPUs, remote Linux servers
 
+## Honors and Awards
+<ul class="award-list" style="list-style-type: disc; padding-left: 20px; line-height: 1.6;">
+  <li class="award-item" style="margin-bottom: 25px;">
+    <strong>Concordia University In-Course Graduate Bursary in Computer Science, 2025</strong><br>
+  </li>
+  <li class="award-item" style="margin-bottom: 25px;">
+    <strong>Concordia University CENPARMI Graduate Scholarship, 2025</strong><br>
+  </li>
+  <li class="award-item" style="margin-bottom: 25px;">
+    <strong>IEEE Transactions on Medical Imaging (TMI) Distinguished Reviewer, 2024</strong><br>
+  </li>
+  <li class="award-item" style="margin-bottom: 25px;">
+    <strong>Mitacs Accelerate Fellowship for Internship at Elekta, 2024</strong><br>
+  </li>
+  <li class="award-item" style="margin-bottom: 25px;">
+    <strong>Concordia University Carolyn Renaud Teaching Assistantship Award, 2024</strong><br>
+  </li>
+  <li class="award-item" style="margin-bottom: 25px;">
+    <strong>Concordia University Conference & Exposition Award, 2023</strong><br>
+  </li>
+  <li class="award-item" style="margin-bottom: 25px;">
+    <strong>Concordia University Travel Conference Support, 2023</strong><br>
+  </li>
+  <li class="award-item" style="margin-bottom: 25px;">
+    <strong>Quebec Bio-Imaging Network (QBIN) Conference Travel Award, 2023</strong><br>
+  </li>
+  <li class="award-item" style="margin-bottom: 25px;">
+    <strong>Image Processing Best Student Paper Award, SPIE Medical Imaging, 2023</strong><br>
+  </li>
+  <li class="award-item" style="margin-bottom: 25px;">
+    <strong>Concordia University Tuition Award of Excellence for International Students, 2021</strong><br>
+  </li>
+  <li class="award-item" style="margin-bottom: 25px;">
+    <strong>Top 1% in Iran’s national MSc entrance exam, 2017</strong><br>
+  </li>
+  <li class="award-item" style="margin-bottom: 25px;">
+    <strong>Top 1% in Iran’s national BSc entrance exam, 2013</strong><br>
+  </li>
+</ul>
+
 Publications
 ======
 You can find a **complete list** of my publications on [Google Scholar](https://scholar.google.com/citations?hl=en&user=udbW6OcAAAAJ&view_op=list_works&sortby=pubdate).
