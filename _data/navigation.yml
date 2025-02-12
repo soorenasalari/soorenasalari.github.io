@@ -12,17 +12,17 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Presentations"
-    url: /presentations/    
+#   - title: "Presentations"
+#     url: /presentations/    
 
-  - title: "Teaching Assistant"
-    url: /teaching/    
+#   - title: "Teaching Assistant"
+#     url: /teaching/    
     
-  - title: "Projects"
-    url: /projects/
+#   - title: "Projects"
+#     url: /projects/
 
-  - title: "Awards"
-    url: /awards/
+#   - title: "Awards"
+#     url: /awards/
 
 
 #  - title: "Blog Posts"
