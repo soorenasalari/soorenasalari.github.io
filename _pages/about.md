@@ -15,7 +15,7 @@ My work primarily focuses on the foundational developments of deep learning and 
 Feel free to reach out via email at soorena.salari374@gmail.com or connect with me on professional networks for research discussions and collaborations.
 
 ---
-
+I won the Image Processing Best Student Paper Award at SPIE Medical Imaging 2023!
 <style>
   .timeline li {
     padding-left: 10px;
@@ -46,10 +46,16 @@ Feel free to reach out via email at soorena.salari374@gmail.com or connect with 
     November 2024: Our paper </em></a> got accepted to SPIE Medical Imaging 2025! :tada:
     </li>
     <li style="margin-bottom: 20px;">
+    April 2024: Interning at Elekta Montreal!
+    </li>
+    <li style="margin-bottom: 20px;">
       June 2023: Two papers got accepted at MICCAI 2023! :tada:
     </li>
     <li style="margin-bottom: 20px;">
       April 2023: One paper got accepted at IUS 2023! :tada:
+    </li>
+    <li style="margin-bottom: 20px;">
+      February 2023: Won the Image Processing Best Student Paper Award at SPIE Medical Imaging 2023! :tada:
     </li>
     <li style="margin-bottom: 20px;">
       October 2022: One paper got accepted at SPIE Medical Imaging 2023! :tada:
