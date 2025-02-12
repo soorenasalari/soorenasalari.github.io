@@ -40,7 +40,7 @@ I won the Image Processing Best Student Paper Award at SPIE Medical Imaging 2023
   <h1>News Timeline</h1>
   <ul class="timeline" style="list-style: none; padding: 0;">
     <li style="margin-bottom: 20px;">
-      November 2024: <a href="https://arxiv.org/abs/2411.17845" style="color: #0073e6; text-decoration: none;"><em>CAMLD</em></a> is now available on arXiv.
+      November 2024: CAMLD is now available on <a href="https://arxiv.org/abs/2411.17845" style="color: #0073e6; text-decoration: none;">arXiv</a>!
     </li>
     <li style="margin-bottom: 20px;">
     November 2024: Our paper </em></a> got accepted to SPIE Medical Imaging 2025! :tada:
