@@ -55,7 +55,7 @@ I won the Image Processing Best Student Paper Award at SPIE Medical Imaging 2023
       April 2023: One paper got accepted at IUS 2023! :tada:
     </li>
     <li style="margin-bottom: 20px;">
-      February 2023: Won the Image Processing Best Student Paper Award at SPIE Medical Imaging 2023! :tada:
+      February 2023: Won the Best Student Paper Award at SPIE Medical Imaging 2023! :tada:
     </li>
     <li style="margin-bottom: 20px;">
       October 2022: One paper got accepted at SPIE Medical Imaging 2023! :tada:
