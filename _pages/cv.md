@@ -27,20 +27,20 @@ Research Interests
 
 Work experience
 ======
-* April 2024 – September 2024: Research Scientist Intern  
-  **Elekta, Montréal, Canada**  
+* April 2024 – September 2024: **Research Scientist Intern**   
+  Elekta, Montréal, Canada 
   - Developed deep learning-based image registration for real-time tissue motion tracking in 2D-Cine MRI-guided radiotherapy.  
   - Trained foundation models using Python, PyTorch, ITK, MONAI, Nibabel, and NumPy on NVIDIA A100 GPUs.  
   - Achieved 12% improvement in image alignment using anatomical landmarks.  
 
-* June 2019 – January 2021: Head of AI Group  
-  **Hami Holding, Tehran, Iran**  
+* June 2019 – January 2021: **Head of AI Group**   
+  Hami Holding, Tehran, Iran  
   - Led the development of AI-based algorithmic trading systems.  
   - Implemented preprocessing and temporal analyses for time-series data and stock price prediction.  
   - Supervised a team of programmers on AI and backend data analysis.
 
-* 2017: Research Intern  
-  **Institute for Research in Fundamental Sciences (IPM), Tehran, Iran**  
+* 2017: **Research Intern**  
+  Institute for Research in Fundamental Sciences (IPM), Tehran, Iran 
   - Worked on EEG signal processing methods.  
   - Gained experience in time-series analysis and feature extraction.
 
