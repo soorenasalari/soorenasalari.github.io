@@ -53,40 +53,40 @@ Skills
 ## Honors and Awards
 <ul class="award-list" style="list-style-type: disc; padding-left: 20px; line-height: 1.6;">
   <li class="award-item" style="margin-bottom: 25px;">
-    <strong>Concordia University In-Course Graduate Bursary in Computer Science, 2025</strong><br>
+    Concordia University In-Course Graduate Bursary in Computer Science, 2025<br>
   </li>
   <li class="award-item" style="margin-bottom: 25px;">
-    <strong>Concordia University CENPARMI Graduate Scholarship, 2025</strong><br>
+    Concordia University CENPARMI Graduate Scholarship, 2025<br>
   </li>
   <li class="award-item" style="margin-bottom: 25px;">
-    <strong>IEEE Transactions on Medical Imaging (TMI) Distinguished Reviewer, 2024</strong><br>
+    IEEE Transactions on Medical Imaging (TMI) Distinguished Reviewer, 2024<br>
   </li>
   <li class="award-item" style="margin-bottom: 25px;">
-    <strong>Mitacs Accelerate Fellowship for Internship at Elekta, 2024</strong><br>
+    Mitacs Accelerate Fellowship for Internship at Elekta, 2024<br>
   </li>
   <li class="award-item" style="margin-bottom: 25px;">
-    <strong>Concordia University Carolyn Renaud Teaching Assistantship Award, 2024</strong><br>
+    Concordia University Carolyn Renaud Teaching Assistantship Award, 2024<br>
   </li>
   <li class="award-item" style="margin-bottom: 25px;">
-    <strong>Concordia University Conference & Exposition Award, 2023</strong><br>
+    Concordia University Conference & Exposition Award, 2023<br>
   </li>
   <li class="award-item" style="margin-bottom: 25px;">
-    <strong>Concordia University Travel Conference Support, 2023</strong><br>
+    Concordia University Travel Conference Support, 2023<br>
   </li>
   <li class="award-item" style="margin-bottom: 25px;">
-    <strong>Quebec Bio-Imaging Network (QBIN) Conference Travel Award, 2023</strong><br>
+    Quebec Bio-Imaging Network (QBIN) Conference Travel Award, 2023<br>
   </li>
   <li class="award-item" style="margin-bottom: 25px;">
-    <strong>Image Processing Best Student Paper Award, SPIE Medical Imaging, 2023</strong><br>
+    Image Processing Best Student Paper Award, SPIE Medical Imaging, 2023<br>
   </li>
   <li class="award-item" style="margin-bottom: 25px;">
-    <strong>Concordia University Tuition Award of Excellence for International Students, 2021</strong><br>
+    Concordia University Tuition Award of Excellence for International Students, 2021<br>
   </li>
   <li class="award-item" style="margin-bottom: 25px;">
-    <strong>Top 1% in Iran’s national MSc entrance exam, 2017</strong><br>
+    Top 1% in Iran’s national MSc entrance exam, 2017<br>
   </li>
   <li class="award-item" style="margin-bottom: 25px;">
-    <strong>Top 1% in Iran’s national BSc entrance exam, 2013</strong><br>
+    Top 1% in Iran’s national BSc entrance exam, 2013<br>
   </li>
 </ul>
 
@@ -94,7 +94,7 @@ Publications
 ======
 You can find a **complete list** of my publications on [Google Scholar](https://scholar.google.com/citations?hl=en&user=udbW6OcAAAAJ&view_op=list_works&sortby=pubdate).
 
-Service and leadership
+Volunteering
 ======
 * Peer reviewer for:
   - IEEE/CVF Computer Vision and Pattern Recognition (CVPR)  
