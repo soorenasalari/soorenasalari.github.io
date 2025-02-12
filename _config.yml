@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Soorena Salari / CV"
+title                    : "Soorena Salari"
 title_separator          : "-"
 name                     : &name "Soorena Salari"
 description              : &description "personal description"
