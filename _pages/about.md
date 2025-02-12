@@ -40,7 +40,7 @@ Feel free to reach out via email at soorena.salari374@gmail.com or connect with 
   <h1>News Timeline</h1>
   <ul class="timeline" style="list-style: none; padding: 0;">
     <li style="margin-bottom: 20px;">
-      November 2024: Our paper <a href="https://arxiv.org/abs/2411.17845" style="color: #0073e6; text-decoration: none;"><em>CAMLD: Contrast-Agnostic Medical Landmark Detection with Consistency-Based Regularization</em></a> is now available on arXiv.
+      November 2024: Our paper <a href="https://arxiv.org/abs/2411.17845" style="color: #0073e6; text-decoration: none;"><em>CAMLD: Contrast-Agnostic Medical Landmark Detection with Consistency-Based Regularization</em></a> is accepted to SPIE Medical Imaging 2025!
     </li>
     <li style="margin-bottom: 20px;">
     November 2024: Our paper <a href="https://arxiv.org/abs/2411.17845" style="color: #0073e6; text-decoration: none;"><em>Reliability of deep learning models for anatomical landmark detection: The role of inter-rater variability</em></a> is now available on arXiv.
