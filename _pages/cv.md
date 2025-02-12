@@ -39,7 +39,7 @@ Work experience
   - Implemented preprocessing and temporal analyses for time-series data and stock price prediction.  
   - Supervised a team of programmers on AI and backend data analysis.
 
-* 2017: **Research Intern**  
+* May 2017 – September 2017: **Research Intern**  
   Institute for Research in Fundamental Sciences (IPM), Tehran, Iran 
   - Worked on EEG signal processing methods.  
   - Gained experience in time-series analysis and feature extraction.
