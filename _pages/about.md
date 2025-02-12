@@ -11,30 +11,6 @@ I am a PhD candidate in Computer Science at Concordia University, Montréal, sin
 
 From April 2024 to September 2024, I was a Research Scientist Intern at Elekta, where I developed deep learning-based image registration methods for robust real-time tissue motion tracking in 2D-Cine MRI-guided radiotherapy. My research aims to improve both the reliability and interpretability of AI models in clinical settings.
 
-## Education
-- PhD in Computer Science, Concordia University, Canada (January 2022 – Present)  
-- MSc in Electrical Engineering, Sharif University of Technology, Iran (Sep 2017 – Sep 2019)  
-- BSc in Electrical Engineering, Amirkabir University of Technology, Iran (Sep 2013 – Sep 2017)  
-
-## Research Interests
-- Deep Learning for Medical Image Analysis  
-- Anatomical Landmark Detection  
-- Multi-Modal Image Registration  
-- Uncertainty Quantification in AI  
-- Contrast-Agnostic Learning  
-
-## Honors & Awards
-- Concordia University In-Course Graduate Bursary in Computer Science (2025)  
-- Concordia University CENPARMI Graduate Scholarship (2025)  
-- IEEE Transactions on Medical Imaging (TMI) Distinguished Reviewer (2024)  
-- Mitacs Accelerate Fellowship for Internship at Elekta (2024)  
-- Concordia University Carolyn Renaud Teaching Assistantship Award (2024)  
-- Concordia University Conference & Exposition Award (2023)  
-- Concordia University Travel Conference Support (2023)  
-- Quebec Bio-Imaging Network (QBIN) Conference Travel Award (2023)  
-- Image Processing Best Student Paper Award, SPIE Medical Imaging (2023)  
-- Concordia University Tuition Award of Excellence for International Students (2021)  
-
 ## Contact
 Feel free to reach out via email at soorena.salari374@gmail.com or connect with me on professional networks for research discussions and collaborations.
 
