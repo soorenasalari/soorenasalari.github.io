@@ -43,7 +43,7 @@ Feel free to reach out via email at soorena.salari374@gmail.com or connect with 
       November 2024: CAMLD is now available on <a href="https://arxiv.org/abs/2411.17845" style="color: #0073e6; text-decoration: none;">arXiv</a>!
     </li>
     <li style="margin-bottom: 20px;">
-    November 2024: Our paper </em></a> got accepted to SPIE Medical Imaging 2025! :tada:
+    November 2024: Our paper </em></a> got accepted at SPIE Medical Imaging 2025! :tada:
     </li>
     <li style="margin-bottom: 20px;">
     April 2024: Interning at Elekta Montreal!
