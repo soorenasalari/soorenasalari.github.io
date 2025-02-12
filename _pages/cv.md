@@ -12,13 +12,10 @@ redirect_from:
 Education
 ======
 * Ph.D. in Computer Science, Concordia University, Montréal, Canada (January 2022 – Present)  
-  *Research focus: Deep learning for medical image analysis, including medical image registration quality*
 
 * M.Sc. in Electrical Engineering, Sharif University of Technology, Tehran, Iran (September 2017 – September 2019)  
-  *Thesis: Fault Detection in Offshore Wind Turbines Using Data-Driven Methods*
 
 * B.Sc. in Electrical Engineering, Amirkabir University of Technology, Tehran, Iran (September 2013 – September 2017)  
-  *Thesis: Classification of Emotion Signals Using CNN and DNN Methods*
 
 Research Interests
 ======
