@@ -12,7 +12,7 @@ I am a PhD candidate in Computer Science at Concordia University in Montréal, w
 My work primarily focuses on the foundational developments of deep learning and computer vision algorithms, with specific applications in medical image analysis. In particular, I am interested in developing innovative algorithms that enhance the interpretability and robustness of AI models for healthcare applications.
 
 ## Contact
-Feel free to reach out via email at soorena.salari374@gmail.com or connect with me on professional networks for research discussions and collaborations.
+Feel free to reach out via email at soorena [dot] salari374 [at] gmail [dot] com or connect with me on professional networks for research discussions and collaborations.
 
 ---
 
