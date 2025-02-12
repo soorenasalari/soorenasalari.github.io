@@ -51,14 +51,16 @@ You can find a **complete list** of my publications on [Google Scholar](https://
 
 Skills
 ======
-* **Programming & Libraries**  
-  - Python, C/C++, MATLAB  
+* **Languages**  
+  - Python, C/C++, MATLAB, LATEX
+* **Frameworks**  
+  - PyTorch, TensorFlow, Django, Flask
+* **Tools**  
+  - Git, Docker, Google Cloud Platform, Overleaf, Visual Studio, PyCharm, IntelliJ, Eclipse, Excel
+* **Libraries**  
+  - OpenCV, Scikit-learn, Pandas, NumPy, Matplotlib
 * **Medical Imaging & Tools**  
   - ITK, MONAI, ANTs, 3D Slicer, MINC  
-* **Software & Misc.**  
-  - MS Visual Studio, VS Code, Git, LATEX  
-* **Cloud & Hardware**  
-  - Experience training on NVIDIA A100 GPUs, remote Linux servers
 
 ## Honors and Awards
 <ul class="award-list" style="list-style-type: disc; padding-left: 20px; line-height: 1.6;">
