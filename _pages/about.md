@@ -37,7 +37,7 @@ Feel free to reach out via email at soorena.salari374@gmail.com or connect with 
 </style>
 
 <section id="news-timeline" style="padding: 20px; background-color: #f9f9f9; margin-top: 40px;">
-  <h1>News Timeline</h1>
+  <h1>News</h1>
   <ul class="timeline" style="list-style: none; padding: 0;">
     <li style="margin-bottom: 20px;">
       November 2024: CAMLD is now available on <a href="https://arxiv.org/abs/2411.17845" style="color: #0073e6; text-decoration: none;">arXiv</a>!
