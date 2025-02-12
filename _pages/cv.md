@@ -52,14 +52,7 @@ Skills
 
 Publications
 ======
-Below is a dynamically generated list of publications if you have a `_publications` folder configured in your site.  
-Otherwise, you can manually list them here or link to a separate Publications page.
-
-<ul>
-{% for post in site.publications reversed %}
-  {% include archive-single-cv.html %}
-{% endfor %}
-</ul>
+You can find a **complete list** of my publications on [Google Scholar](https://scholar.google.com/citations?hl=en&user=udbW6OcAAAAJ&view_op=list_works&sortby=pubdate).
 
 Service and leadership
 ======
