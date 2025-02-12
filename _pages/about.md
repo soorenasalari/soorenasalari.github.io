@@ -12,7 +12,7 @@ redirect_from:
 ## About Me
 I am a PhD candidate in Computer Science at Concordia University, Montréal, **since January 2022**, with a research focus on **deep learning for medical image analysis** and **automatic quantification of medical image registration quality**. My work involves developing novel AI-driven solutions for **anatomical landmark detection**, **multi-modal medical image registration**, and **uncertainty quantification**, with applications in radiology and neurosurgery.
 
-From **April 2024 to September 2024**, I am a **Research Scientist Intern at Elekta**, where I develop deep learning-based image registration methods for robust real-time tissue motion tracking in 2D-Cine MRI-guided radiotherapy. My research aims to improve both the **reliability** and **interpretability** of AI models in clinical settings.
+From **April 2024 to September 2024**, I was a **Research Scientist Intern at Elekta**, where I developed deep learning-based image registration methods for robust real-time tissue motion tracking in 2D-Cine MRI-guided radiotherapy. My research aims to improve both the **reliability** and **interpretability** of AI models in clinical settings.
 
 ## Education
 - **PhD in Computer Science**, Concordia University, Canada (January 2022 – Present)  
@@ -34,12 +34,12 @@ From **April 2024 to September 2024**, I am a **Research Scientist Intern at Ele
   - Oversaw a team of programmers working on AI and backend data analysis.  
 
 ## Research Interests
-- Deep Learning for Medical Image Analysis  
-- Multi-Modal Image Registration  
+- Deep Learning for Medical Image Analysis
 - Anatomical Landmark Detection  
+- Multi-Modal Image Registration  
 - Uncertainty Quantification in AI  
 - Contrast-Agnostic Learning  
-- Real-Time Tissue Motion Tracking  
+
 
 ## Honors & Awards
 - **Concordia University In-Course Graduate Bursary in Computer Science (2025)**
