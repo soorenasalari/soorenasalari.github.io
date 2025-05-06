@@ -40,7 +40,7 @@ Feel free to reach out via email at soorena [dot] salari374 [at] gmail [dot] com
   <h1>News</h1>
   <ul class="timeline" style="list-style: none; padding: 0;">
     <li style="margin-bottom: 20px;">
-      April 2025: Won the <a href="https://frq.gouv.qc.ca/en/program/sante-sector-doctoral-training-scholarships-bf2-2025-2026-frqs/" style="color: #0073e6; text-decoration: none;">FRQS fellowship</a> , thanks Gouvernement du Québec! :tada:
+      April 2025: Won the <a href="https://frq.gouv.qc.ca/en/program/sante-sector-doctoral-training-scholarships-bf2-2025-2026-frqs/" style="color: #0073e6; text-decoration: none;"> BF2 FRQS fellowship</a> , thanks Gouvernement du Québec! :tada:
     </li>
     <li style="margin-bottom: 20px;">
       March 2025: CABLD is now available on <a href="https://arxiv.org/abs/2411.17845" style="color: #0073e6; text-decoration: none;">arXiv</a>!
