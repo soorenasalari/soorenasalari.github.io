@@ -65,7 +65,7 @@ Skills
 ## Honors and Awards
 <ul class="award-list" style="list-style-type: disc; padding-left: 20px; line-height: 1.6;">
   <li class="award-item" style="margin-bottom: 25px;">
-    FRQS Doctoral Fellowship, 2025<br>
+     BF2 FRQS Doctoral Fellowship, 2025<br>
   </li>
   <li class="award-item" style="margin-bottom: 25px;">
     Concordia University In-Course Graduate Bursary in Computer Science, 2025<br>
