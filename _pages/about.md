@@ -39,7 +39,6 @@ Feel free to reach out via email at soorena [dot] salari374 [at] gmail [dot] com
 <section id="news-timeline" style="padding: 20px; background-color: #f9f9f9; margin-top: 40px;">
   <h1>News</h1>
   <ul class="timeline" style="list-style: none; padding: 0;">
-    </li>
     <li style="margin-bottom: 20px;">
       April 2025: I won <a href="https://frq.gouv.qc.ca/en/program/frqs-doctoral-training-scholarships-for-medical-students-m-d-ph-d-2023-2024/" style="color: #0073e6; text-decoration: none;">FRQS fellowship</a> , thanks Gouvernement du Québec! :tada:
     </li>
