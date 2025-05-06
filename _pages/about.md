@@ -39,6 +39,10 @@ Feel free to reach out via email at soorena [dot] salari374 [at] gmail [dot] com
 <section id="news-timeline" style="padding: 20px; background-color: #f9f9f9; margin-top: 40px;">
   <h1>News</h1>
   <ul class="timeline" style="list-style: none; padding: 0;">
+    </li>
+    <li style="margin-bottom: 20px;">
+      June 2023: Two papers got accepted at MICCAI 2023! :tada:
+    </li>
     <li style="margin-bottom: 20px;">
       March 2025: CABLD is now available on <a href="https://arxiv.org/abs/2411.17845" style="color: #0073e6; text-decoration: none;">arXiv</a>!
     </li>
