@@ -49,7 +49,7 @@ Feel free to reach out via email at soorena [dot] salari374 [at] gmail [dot] com
       March 2025: CABLD is now available on <a href="https://arxiv.org/abs/2411.17845" style="color: #0073e6; text-decoration: none;">arXiv</a>!
     </li>
     <li style="margin-bottom: 20px;">
-    January 2025: Successfully passed my PhD proposal exam! :tada:
+    January 2025: Successfully passed my PhD proposal exam!
     </li>
     <li style="margin-bottom: 20px;">
     November 2024: One paper </em></a> got accepted at SPIE Medical Imaging 2025! :tada:
@@ -58,19 +58,19 @@ Feel free to reach out via email at soorena [dot] salari374 [at] gmail [dot] com
     April 2024: Interning at Elekta Montreal!
     </li>
     <li style="margin-bottom: 20px;">
-      November 2023: Successfully passed my PhD comprehensive exam! :tada:
+      November 2023: Successfully passed my PhD comprehensive exam!
     </li>
     <li style="margin-bottom: 20px;">
       June 2023: Two papers got accepted at MICCAI 2023! :tada:
     </li>
     <li style="margin-bottom: 20px;">
-      April 2023: One paper got accepted at IUS 2023! :tada:
+      April 2023: One paper got accepted at IUS 2023!
     </li>
     <li style="margin-bottom: 20px;">
       February 2023: Won the Best Student Paper Award at SPIE Medical Imaging 2023! :tada:
     </li>
     <li style="margin-bottom: 20px;">
-      October 2022: One paper got accepted at SPIE Medical Imaging 2023! :tada:
+      October 2022: One paper got accepted at SPIE Medical Imaging 2023!
     </li>
     <li style="margin-bottom: 20px;">
       January 2022: Started PhD in Computer Science at Concordia University.
