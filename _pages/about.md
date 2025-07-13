@@ -49,6 +49,9 @@ Feel free to reach out via email at soorena [dot] salari374 [at] gmail [dot] com
       March 2025: CABLD is now available on <a href="https://arxiv.org/abs/2411.17845" style="color: #0073e6; text-decoration: none;">arXiv</a>!
     </li>
     <li style="margin-bottom: 20px;">
+    January 2025: Successfully passed my PhD proposal exam! :tada:
+    </li>
+    <li style="margin-bottom: 20px;">
     November 2024: One paper </em></a> got accepted at SPIE Medical Imaging 2025! :tada:
     </li>
     <li style="margin-bottom: 20px;">
