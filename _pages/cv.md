@@ -111,10 +111,6 @@ Volunteering
   - IEEE/CVF Computer Vision and Pattern Recognition (CVPR)
   - European Conference on Computer Vision (ECCV)  
   - Neural Information Processing Systems (NeurIPS)
+  - International Conference on Machine Learning (ICML)
   - IEEE Transactions on Medical Imaging
-  - Computer Methods and Programs in Biomedicine
-  - Information Fusion  
-  - IEEE Access  
-  - Computational Intelligence and Neuroscience  
-  - Neural Processing Letters  
 * Member of the student committee at RBIQ-TransMedTech meeting (May 22, 2024) and RBIQ scientific day (May 23, 2024), Quebec Bio-Imaging Network (QBIN)
