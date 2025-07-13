@@ -55,6 +55,9 @@ Feel free to reach out via email at soorena [dot] salari374 [at] gmail [dot] com
     April 2024: Interning at Elekta Montreal!
     </li>
     <li style="margin-bottom: 20px;">
+      November 2023: Successfully passed my PhD comprehensive exam! :tada:
+    </li>
+    <li style="margin-bottom: 20px;">
       June 2023: Two papers got accepted at MICCAI 2023! :tada:
     </li>
     <li style="margin-bottom: 20px;">
