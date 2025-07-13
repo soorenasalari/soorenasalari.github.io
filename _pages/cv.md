@@ -56,7 +56,7 @@ Skills
 * **Frameworks**  
   - PyTorch, TensorFlow, Django, Flask
 * **Tools**  
-  - Git, Docker, Google Cloud Platform, Overleaf, Visual Studio, PyCharm, IntelliJ, Eclipse, Excel
+  - Git, Docker, AWS, Google Cloud Platform, Overleaf, Visual Studio, PyCharm, IntelliJ, Eclipse, Excel
 * **Libraries**  
   - OpenCV, Scikit-learn, Pandas, NumPy, Matplotlib
 * **Medical Imaging & Tools**  
