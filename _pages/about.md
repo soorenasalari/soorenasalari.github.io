@@ -40,6 +40,9 @@ Feel free to reach out via email at soorena [dot] salari374 [at] gmail [dot] com
   <h1>News</h1>
   <ul class="timeline" style="list-style: none; padding: 0;">
     <li style="margin-bottom: 20px;">
+      August 2025: <a href="https://ieeexplore.ieee.org/document/11125967" style="color: #0073e6; text-decoration: none;">DINOMotion</a> got accepted to TBME! :tada:
+    </li>
+     <li style="margin-bottom: 20px;">
       June 2025: <a href="https://arxiv.org/abs/2411.17845" style="color: #0073e6; text-decoration: none;">CABLD</a> got accepted at ICCV 2025! :tada:
     </li>
     <li style="margin-bottom: 20px;">
