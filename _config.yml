@@ -24,9 +24,9 @@ author:
   avatar           : "bio.jpg"
   name             : "Soorena Salari"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Candidate at Concordia University"
-  location         : "Montreal, Canada"
-  employer         : "Concordia University"
+  bio              : "Senior Data Scientist at Pathward"
+  location         : "Washington, D.C. Metro Area"
+  employer         : "Pathward"
   uri              : # URL
   email            : "soorena.salari374@gmail.com" 
 
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Soorena374
+  linkedin         : "soorena-salari"# Soorena374
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
