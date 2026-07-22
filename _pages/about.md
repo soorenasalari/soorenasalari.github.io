@@ -11,6 +11,8 @@ I am a PhD candidate in Computer Science at Concordia University in Montréal, w
 
 My work primarily focuses on the foundational developments of deep learning and computer vision algorithms, with specific applications in medical image analysis. In particular, I am interested in developing innovative algorithms that enhance the interpretability and robustness of AI models for healthcare applications.
 
+Since April 2026, I have also been working as a Data Scientist II at Pathward, where I develop and evaluate machine learning models, scalable analytical workflows, and data-driven solutions for financial applications.
+
 ## Contact
 Feel free to reach out via email at soorena [dot] salari374 [at] gmail [dot] com or connect with me on professional networks for research discussions and collaborations.
 
@@ -39,7 +41,10 @@ Feel free to reach out via email at soorena [dot] salari374 [at] gmail [dot] com
 <section id="news-timeline" style="padding: 20px; background-color: #f9f9f9; margin-top: 40px;">
   <h1>News</h1>
   <ul class="timeline" style="list-style: none; padding: 0;">
-    <li style="margin-bottom: 20px;">
+
+  <li style="margin-bottom: 20px;"> April 2026: Joined Pathward as a Data Scientist II! </li>
+   
+  <li style="margin-bottom: 20px;">
       August 2025: <a href="https://ieeexplore.ieee.org/document/11125967" style="color: #0073e6; text-decoration: none;">DINOMotion</a> got accepted to TBME! :tada:
     </li>
      <li style="margin-bottom: 20px;">
