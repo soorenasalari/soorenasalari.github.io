@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in Computer Science at Concordia University in Montréal, where I have been pursuing advanced research since January 2022. I complemented my academic journey with industry experience as a Research Scientist Intern at Elekta (April 2024 – September 2024), where I developed deep learning-based image registration methods for robust, real-time tissue motion tracking in 2D-Cine MRI-guided radiotherapy.
+I am a PhD candidate in Computer Science at Concordia University in Montréal, where I have been pursuing advanced research since January 2022. Alongside my academic work, I gained industry experience as a Research Scientist Intern at Elekta and Machine Learning Scientist at Cleerly.
 
 My work primarily focuses on the foundational developments of deep learning and computer vision algorithms, with specific applications in medical image analysis. In particular, I am interested in developing innovative algorithms that enhance the interpretability and robustness of AI models for healthcare applications.
 
