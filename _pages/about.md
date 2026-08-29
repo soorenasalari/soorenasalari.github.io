@@ -40,7 +40,7 @@ Feel free to reach out via email at soorena [dot] salari374 [at] gmail [dot] com
   <h1>News</h1>
   <ul class="timeline" style="list-style: none; padding: 0;">
 
-  <li style="margin-bottom: 20px;">August 2026: Successfully defended my PhD thesis with an “Outstanding” ranking! :tada: </li>
+  <li style="margin-bottom: 20px;">August 2026: Successfully defended my PhD thesis! :tada: </li>
 
   <li style="margin-bottom: 20px;"> April 2026: Joined Pathward as a Data Scientist II! </li>
    
