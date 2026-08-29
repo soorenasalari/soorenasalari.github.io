@@ -159,6 +159,7 @@ Volunteering
   - European Conference on Computer Vision (ECCV)
   - Neural Information Processing Systems (NeurIPS)
   - International Conference on Machine Learning (ICML)
+  - International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)
   - IEEE Transactions on Medical Imaging (TMI)
 
 * Member of the student committee at RBIQ-TransMedTech meeting and RBIQ Scientific Day, Quebec Bio-Imaging Network (QBIN), 2024
