@@ -7,11 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in Computer Science at Concordia University in Montréal, where I have been pursuing advanced research since January 2022. Alongside my academic work, I gained industry experience as a Research Scientist Intern at Elekta and Machine Learning Scientist at Cleerly.
+I am a Data Scientist II at Pathward, where I develop large-scale machine learning models, anomaly detection systems, and agentic AI tools for financial risk and decision systems. Previously, I was a Machine Learning Scientist at Cleerly, working on coronary artery landmark detection and registration for CCTA imaging. Before that, I was a Research Scientist Intern at Elekta, where I developed deep learning methods for real-time tissue motion tracking in MRI-guided radiotherapy.
 
-My work primarily focuses on the foundational developments of deep learning and computer vision algorithms, with specific applications in medical image analysis. In particular, I am interested in developing innovative algorithms that enhance the interpretability and robustness of AI models for healthcare applications.
-
-Since April 2026, I have also been working as a Data Scientist II at Pathward, where I develop and evaluate machine learning models, scalable analytical workflows, and data-driven solutions for financial applications.
+I completed my PhD in Computer Science at Concordia University, where my thesis focused on automatic quantification of medical image registration quality using deep learning. My broader interests include medical image registration, anatomical landmark detection, uncertainty-aware AI, foundation models, self-supervised learning, and trustworthy AI for healthcare.
 
 ## Contact
 Feel free to reach out via email at soorena [dot] salari374 [at] gmail [dot] com or connect with me on professional networks for research discussions and collaborations.
@@ -41,6 +39,8 @@ Feel free to reach out via email at soorena [dot] salari374 [at] gmail [dot] com
 <section id="news-timeline" style="padding: 20px; background-color: #f9f9f9; margin-top: 40px;">
   <h1>News</h1>
   <ul class="timeline" style="list-style: none; padding: 0;">
+
+  <li style="margin-bottom: 20px;">August 2026: Successfully defended my PhD thesis with an “Outstanding” ranking! :tada: </li>
 
   <li style="margin-bottom: 20px;"> April 2026: Joined Pathward as a Data Scientist II! </li>
    
