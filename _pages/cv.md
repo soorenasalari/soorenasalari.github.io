@@ -163,3 +163,4 @@ Volunteering
   - IEEE Transactions on Medical Imaging (TMI)
 
 * Member of the student committee at RBIQ-TransMedTech meeting and RBIQ Scientific Day, Quebec Bio-Imaging Network (QBIN), 2024
+* Review records available at [Web of Science](https://www.webofscience.com/wos/author/record/ABF-6491-2020) and [Web of Science](https://www.webofscience.com/wos/author/record/AAG-3226-2019).
