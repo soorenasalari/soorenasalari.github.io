@@ -1,3 +1,6 @@
+Here is the full updated version you can paste into your GitHub website page:
+
+```markdown
 ---
 permalink: /
 title: "About"
@@ -158,3 +161,4 @@ Feel free to reach out via email at soorena [dot] salari374 [at] gmail [dot] com
     </ul>
   </div>
 </section>
+```
