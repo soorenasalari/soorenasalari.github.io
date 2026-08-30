@@ -159,48 +159,61 @@ Feel free to reach out via email at soorena [dot] salari374 [at] gmail [dot] com
   </div>
 </section>
 
+
 <section id="talks" style="margin-top: 40px;">
   <h2>Talks</h2>
 
   <div class="talks-grid">
 
     <div class="talk">
-      <h3>PhD Defense: Automatic Quantification of Medical Image Registration Quality Using Deep Learning</h3>
+      <h3>CABLD: Contrast-Agnostic Brain Landmark Detection with Consistency-Based Regularization</h3>
       <div class="video-wrap">
-        <iframe src="files/phd-defense.pdf" title="PhD Defense Slides" loading="lazy"></iframe>
+        <iframe src="https://www.youtube.com/embed/BQREG0TcdM0" 
+                title="CABLD ICCV 2025 Talk"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowfullscreen loading="lazy"></iframe>
       </div>
       <p class="slides-link">
-        <a href="files/phd-defense.pdf" target="_blank" rel="noopener noreferrer">Slides</a>
+        <a href="https://www.youtube.com/watch?v=BQREG0TcdM0" target="_blank" rel="noopener noreferrer">Video</a>
       </p>
     </div>
 
     <div class="talk">
-      <h3>FocalErrorNet: Uncertainty-Aware Registration Error Estimation</h3>
+      <h3>FocalErrorNet: Uncertainty-Aware Focal Modulation Network for Registration Error Estimation</h3>
       <div class="video-wrap">
-        <iframe src="https://www.youtube.com/embed/YOUR_YOUTUBE_ID" title="FocalErrorNet Talk" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+        <iframe src="https://www.youtube.com/embed/WTFTleY5vBU?start=38" 
+                title="FocalErrorNet MICCAI 2023 Oral Talk"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowfullscreen loading="lazy"></iframe>
       </div>
       <p class="slides-link">
-        <a href="files/focalerrornet-talk.pdf" target="_blank" rel="noopener noreferrer">Slides</a>
+        <a href="https://www.youtube.com/watch?v=WTFTleY5vBU&t=38s" target="_blank" rel="noopener noreferrer">Video</a>
       </p>
     </div>
 
     <div class="talk">
-      <h3>CABLD: Contrast-Agnostic Brain Landmark Detection</h3>
+      <h3>Towards Multi-Modal Anatomical Landmark Detection for Ultrasound-Guided Brain Tumor Resection</h3>
       <div class="video-wrap">
-        <iframe src="files/cabld-talk.pdf" title="CABLD Talk Slides" loading="lazy"></iframe>
+        <iframe src="https://www.youtube.com/embed/KgG4wfgFY4k?start=18" 
+                title="Multi-modal Anatomical Landmark Detection MICCAI 2023 Talk"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowfullscreen loading="lazy"></iframe>
       </div>
       <p class="slides-link">
-        <a href="files/cabld-talk.pdf" target="_blank" rel="noopener noreferrer">Slides</a>
+        <a href="https://www.youtube.com/watch?v=KgG4wfgFY4k&t=18s" target="_blank" rel="noopener noreferrer">Video</a>
       </p>
     </div>
 
     <div class="talk">
-      <h3>DINOMotion: Robust Tissue Motion Tracking in MRI-Guided Radiotherapy</h3>
+      <h3>Dense Error Map Estimation for MRI-Ultrasound Registration in Brain Tumor Surgery Using Swin UNETR</h3>
       <div class="video-wrap">
-        <iframe src="files/dinomotion-talk.pdf" title="DINOMotion Talk Slides" loading="lazy"></iframe>
+        <iframe src="https://www.youtube.com/embed/237X1xE9lbs" 
+                title="Dense Error Map Estimation IUS 2023 Talk"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowfullscreen loading="lazy"></iframe>
       </div>
       <p class="slides-link">
-        <a href="files/dinomotion-talk.pdf" target="_blank" rel="noopener noreferrer">Slides</a>
+        <a href="https://www.youtube.com/watch?v=237X1xE9lbs" target="_blank" rel="noopener noreferrer">Video</a>
       </p>
     </div>
 
