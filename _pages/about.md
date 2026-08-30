@@ -122,7 +122,7 @@ Feel free to reach out via email at soorena [dot] salari374 [at] gmail [dot] com
 
       <li>
         <span class="news-date">[2024/04]</span>
-        <span>Started my internship at Elekta Montréal!</span>
+        <span>Started my internship at Elekta!</span>
       </li>
 
       <li>
