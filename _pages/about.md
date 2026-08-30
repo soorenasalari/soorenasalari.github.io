@@ -166,16 +166,13 @@ Feel free to reach out via email at soorena [dot] salari374 [at] gmail [dot] com
   <div class="talks-grid">
 
     <div class="talk">
-      <h3>CABLD: Contrast-Agnostic Brain Landmark Detection with Consistency-Based Regularization (ICCV 2025) </h3>
+      <h3>CABLD: Contrast-Agnostic Brain Landmark Detection with Consistency-Based Regularization (ICCV 2025)</h3>
       <div class="video-wrap">
         <iframe src="https://www.youtube.com/embed/BQREG0TcdM0" 
                 title="CABLD ICCV 2025 Talk"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                 allowfullscreen loading="lazy"></iframe>
       </div>
-      <p class="slides-link">
-        <a href="https://www.youtube.com/watch?v=BQREG0TcdM0" target="_blank" rel="noopener noreferrer">Video</a>
-      </p>
     </div>
 
     <div class="talk">
@@ -186,9 +183,6 @@ Feel free to reach out via email at soorena [dot] salari374 [at] gmail [dot] com
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                 allowfullscreen loading="lazy"></iframe>
       </div>
-      <p class="slides-link">
-        <a href="https://www.youtube.com/watch?v=WTFTleY5vBU&t=38s" target="_blank" rel="noopener noreferrer">Video</a>
-      </p>
     </div>
 
     <div class="talk">
@@ -199,9 +193,6 @@ Feel free to reach out via email at soorena [dot] salari374 [at] gmail [dot] com
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                 allowfullscreen loading="lazy"></iframe>
       </div>
-      <p class="slides-link">
-        <a href="https://www.youtube.com/watch?v=KgG4wfgFY4k&t=18s" target="_blank" rel="noopener noreferrer">Video</a>
-      </p>
     </div>
 
     <div class="talk">
@@ -212,9 +203,6 @@ Feel free to reach out via email at soorena [dot] salari374 [at] gmail [dot] com
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                 allowfullscreen loading="lazy"></iframe>
       </div>
-      <p class="slides-link">
-        <a href="https://www.youtube.com/watch?v=237X1xE9lbs" target="_blank" rel="noopener noreferrer">Video</a>
-      </p>
     </div>
 
   </div>
