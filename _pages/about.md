@@ -158,3 +158,51 @@ Feel free to reach out via email at soorena [dot] salari374 [at] gmail [dot] com
     </ul>
   </div>
 </section>
+
+<section id="talks" style="margin-top: 40px;">
+  <h2>Talks</h2>
+
+  <div class="talks-grid">
+
+    <div class="talk">
+      <h3>PhD Defense: Automatic Quantification of Medical Image Registration Quality Using Deep Learning</h3>
+      <div class="video-wrap">
+        <iframe src="files/phd-defense.pdf" title="PhD Defense Slides" loading="lazy"></iframe>
+      </div>
+      <p class="slides-link">
+        <a href="files/phd-defense.pdf" target="_blank" rel="noopener noreferrer">Slides</a>
+      </p>
+    </div>
+
+    <div class="talk">
+      <h3>FocalErrorNet: Uncertainty-Aware Registration Error Estimation</h3>
+      <div class="video-wrap">
+        <iframe src="https://www.youtube.com/embed/YOUR_YOUTUBE_ID" title="FocalErrorNet Talk" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+      </div>
+      <p class="slides-link">
+        <a href="files/focalerrornet-talk.pdf" target="_blank" rel="noopener noreferrer">Slides</a>
+      </p>
+    </div>
+
+    <div class="talk">
+      <h3>CABLD: Contrast-Agnostic Brain Landmark Detection</h3>
+      <div class="video-wrap">
+        <iframe src="files/cabld-talk.pdf" title="CABLD Talk Slides" loading="lazy"></iframe>
+      </div>
+      <p class="slides-link">
+        <a href="files/cabld-talk.pdf" target="_blank" rel="noopener noreferrer">Slides</a>
+      </p>
+    </div>
+
+    <div class="talk">
+      <h3>DINOMotion: Robust Tissue Motion Tracking in MRI-Guided Radiotherapy</h3>
+      <div class="video-wrap">
+        <iframe src="files/dinomotion-talk.pdf" title="DINOMotion Talk Slides" loading="lazy"></iframe>
+      </div>
+      <p class="slides-link">
+        <a href="files/dinomotion-talk.pdf" target="_blank" rel="noopener noreferrer">Slides</a>
+      </p>
+    </div>
+
+  </div>
+</section>
