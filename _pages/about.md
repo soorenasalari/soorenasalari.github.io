@@ -82,7 +82,7 @@ Feel free to reach out via email at soorena [dot] salari374 [at] gmail [dot] com
 
       <li>
         <span class="news-date">[2026/08]</span>
-        <span>Successfully defended my PhD thesis with an “Outstanding” ranking! 🎉</span>
+        <span>Successfully defended my PhD thesis! 🎉</span>
       </li>
 
       <li>
