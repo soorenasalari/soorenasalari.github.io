@@ -122,7 +122,7 @@ Feel free to reach out via email at soorena [dot] salari374 [at] gmail [dot] com
 
        <li>
         <span class="news-date">[2024/05]</span>
-        <span> Won the Concordia University Carolyn Renaud Teaching Assistantship Award</b>! 🎉</span>
+        <span> Won the Concordia University Carolyn Renaud Teaching Assistantship Award! 🎉</span>
         </li>
 
       <li>
