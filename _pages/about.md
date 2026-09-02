@@ -120,6 +120,11 @@ Feel free to reach out via email at soorena [dot] salari374 [at] gmail [dot] com
         <span>One paper got accepted at <b>SPIE Medical Imaging 2025</b>! 🎉</span>
       </li>
 
+       <li>
+        <span class="news-date">[2024/05]</span>
+        <span> Won the Concordia University Carolyn Renaud Teaching Assistantship Award</b>! 🎉</span>
+        </li>
+
       <li>
         <span class="news-date">[2024/04]</span>
         <span>Started my internship at Elekta!</span>
