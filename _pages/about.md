@@ -110,6 +110,18 @@ Feel free to reach out via email at soorena [dot] salari374 [at] gmail [dot] com
         <span><a href="https://arxiv.org/abs/2411.17845" target="_blank" rel="noopener noreferrer">CABLD</a> is now available on arXiv!</span>
       </li>
 
+             <li>
+        <span class="news-date">[2025/01]</span>
+        <span> Won the <a href="https://www.concordia.ca/gradstudies/funding/in-program/donor-awards.html" target="_blank" rel="noopener noreferrer">Concordia University CENPARMI Graduate Scholarship</a>! 🎉</span>
+        </li>
+
+
+
+        <li>
+        <span class="news-date">[2025/01]</span>
+        <span> Won the <a href="https://www.concordia.ca/gradstudies/funding/in-program/donor-awards.html" target="_blank" rel="noopener noreferrer">Concordia University In-Course Graduate Bursary in Computer Science</a>! 🎉</span>
+        </li>
+
       <li>
         <span class="news-date">[2025/01]</span>
         <span>Successfully passed my PhD proposal exam!</span>
