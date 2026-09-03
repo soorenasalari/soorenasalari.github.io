@@ -9,7 +9,7 @@ redirect_from:
 
 I am a Data Scientist II at Pathward, where I develop large-scale machine learning models, anomaly detection systems, and agentic AI tools for financial risk and decision systems. Previously, I was a Machine Learning Scientist at Cleerly, working on coronary artery landmark detection and registration for CCTA imaging. Before that, I was a Research Scientist Intern at Elekta, where I developed deep learning methods for real-time tissue motion tracking in MRI-guided radiotherapy.
 
-I completed my PhD in Computer Science at <a href="https://www.concordia.ca" target="_blank" rel="noopener noreferrer">Concordia University</a>, advised by Prof. Hassan Rivaz Desrosiers and Prof. Yiming Xiao, where my research focused on automatic quantification of medical image registration quality using deep learning. My broader interests include medical image registration, anatomical landmark detection, uncertainty-aware AI, foundation models, self-supervised learning, and trustworthy AI for healthcare.
+I recently completed my PhD in Computer Science at <a href="https://www.concordia.ca" target="_blank" rel="noopener noreferrer">Concordia University</a>, advised by Prof. Hassan Rivaz Desrosiers and Prof. Yiming Xiao, where my research focused on automatic quantification of medical image registration quality using deep learning. My broader interests include medical image registration, anatomical landmark detection, uncertainty-aware AI, foundation models, self-supervised learning, and trustworthy AI for healthcare.
 
 
 
