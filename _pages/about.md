@@ -83,7 +83,7 @@ Feel free to reach out via email at soorena [dot] salari374 [at] gmail [dot] com
 
       <li>
         <span class="news-date">[2026/08]</span>
-        <span>Successfully defended my PhD thesis!🎉 <a href="https://lnkd.in/p/e52Q7jxr" target="_blank" rel="noopener noreferrer">Check out my post!</a> </span>
+        <span>Successfully defended my PhD thesis!🎉 </span>
       </li>
 
       <li>
